@@ -1,0 +1,174 @@
+﻿,Country,HDI.Rank,HDI,CPI,Region
+1,Afghanistan,172,0.398,1.5,Asia Pacific
+2,,70,0.739,3.1,East EU Cemt Asia
+3,,96,0.698,2.9,MENA
+4,,148,0.486,2,SSA
+5,Argentina,45,0.797,3,Americas
+6,,86,0.716,2.6,East EU Cemt Asia
+7,,2,0.929,8.8,Asia Pacific
+8,,19,0.885,7.8,EU W. Europe
+9,,91,0.7,2.4,East EU Cemt Asia
+10,,53,0.771,7.3,Americas
+11,,42,0.806,5.1,MENA
+12,,146,0.5,2.7,Asia Pacific
+13,Barbados,47,0.793,7.8,Americas
+14,,65,0.756,2.4,East EU Cemt Asia
+15,,18,0.886,7.5,EU W. Europe
+16,,167,0.427,3,SSA
+17,Bhutan,141,0.522,5.7,Asia Pacific
+18,,108,0.663,2.8,Americas
+19,,74,0.733,3.2,East EU Cemt Asia
+20,Botswana,118,0.633,6.1,SSA
+21,Brazil,84,0.718,3.8,Americas
+22,Britain,28,0.863,7.8,EU W. Europe
+23,,55,0.771,3.3,EU W. Europe
+24,,181,0.331,3,SSA
+25,,185,0.316,1.9,SSA
+26,,139,0.523,2.1,Asia Pacific
+27,,150,0.482,2.5,SSA
+28,,6,0.908,8.7,Americas
+29,Cape Verde,133,0.568,5.5,SSA
+30,,179,0.343,2.2,SSA
+31,,183,0.328,2,SSA
+32,,44,0.805,7.2,Americas
+33,China,101,0.687,3.6,Asia Pacific
+34,,87,0.71,3.4,Americas
+35,,163,0.433,2.4,SSA
+36,Congo,187,0.286,2,SSA
+37,,137,0.533,2.2,SSA
+38,,69,0.744,4.8,Americas
+39,,170,0.4,2.2,SSA
+40,,46,0.796,4,East EU Cemt Asia
+41,,51,0.776,4.2,Americas
+42,,31,0.84,6.3,EU W. Europe
+43,,27,0.865,4.4,EU W. Europe
+44,,16,0.895,9.4,EU W. Europe
+45,,165,0.43,3,SSA
+46,,81,0.724,5.2,Americas
+47,,98,0.689,2.6,Americas
+48,,83,0.72,2.7,Americas
+49,,113,0.644,2.9,MENA
+50,,105,0.674,3.4,Americas
+51,,136,0.537,1.9,SSA
+52,,177,0.349,2.5,SSA
+53,,34,0.835,6.4,EU W. Europe
+54,,174,0.363,2.7,SSA
+55,,22,0.882,9.4,EU W. Europe
+56,France,20,0.884,7,EU W. Europe
+57,,106,0.674,3,SSA
+58,,168,0.42,3.5,SSA
+59,,75,0.733,4.1,East EU Cemt Asia
+60,Germany,9,0.905,8,EU W. Europe
+61,,135,0.541,3.9,SSA
+62,Greece,29,0.861,3.4,EU W. Europe
+63,,131,0.574,2.7,Americas
+64,,178,0.344,2.1,SSA
+65,,176,0.353,2.2,SSA
+66,,117,0.633,2.5,Americas
+67,,158,0.454,1.8,Americas
+68,,121,0.625,2.6,Americas
+69,,13,0.898,8.4,Asia Pacific
+70,,38,0.816,4.6,EU W. Europe
+71,,14,0.898,8.3,EU W. Europe
+72,India,134,0.547,3.1,Asia Pacific
+73,,124,0.617,3,Asia Pacific
+74,,88,0.707,2.7,MENA
+75,Iraq,132,0.573,1.8,MENA
+76,,7,0.908,7.5,EU W. Europe
+77,,17,0.888,5.8,MENA
+78,Italy,24,0.874,3.9,EU W. Europe
+79,,79,0.727,3.3,Americas
+80,Japan,12,0.901,8,Asia Pacific
+81,,95,0.698,4.5,MENA
+82,,68,0.745,2.7,East EU Cemt Asia
+83,,143,0.509,2.2,SSA
+84,,122,0.624,3.1,Asia Pacific
+85,,15,0.897,5.4,Asia Pacific
+86,,63,0.76,4.6,MENA
+87,,126,0.615,2.1,East EU Cemt Asia
+88,,138,0.524,2.2,Asia Pacific
+89,,43,0.805,4.2,EU W. Europe
+90,,71,0.739,2.5,MENA
+91,,160,0.45,3.5,SSA
+92,,182,0.329,3.2,SSA
+93,,64,0.76,2,MENA
+94,,40,0.81,4.8,EU W. Europe
+95,,25,0.867,8.5,EU W. Europe
+96,,151,0.48,3,SSA
+97,,171,0.4,3,SSA
+98,,61,0.761,4.3,Asia Pacific
+99,,109,0.661,2.5,Asia Pacific
+100,,175,0.359,2.8,SSA
+101,,36,0.832,5.6,EU W. Europe
+102,,159,0.453,2.4,SSA
+103,,77,0.728,5.1,SSA
+104,,57,0.77,3,Americas
+105,,111,0.649,2.9,East EU Cemt Asia
+106,,110,0.653,2.7,Asia Pacific
+107,,54,0.771,4,East EU Cemt Asia
+108,,130,0.582,3.4,MENA
+109,,184,0.322,2.7,SSA
+110,Myanmar,149,0.483,1.5,Asia Pacific
+111,,120,0.625,4.4,SSA
+112,,157,0.458,2.2,Asia Pacific
+113,,3,0.91,8.9,EU W. Europe
+114,,5,0.908,9.5,Asia Pacific
+115,,129,0.589,2.5,Americas
+116,,186,0.295,2.5,SSA
+117,,156,0.459,2.4,SSA
+118,Norway,1,0.943,9,EU W. Europe
+119,,89,0.705,4.8,MENA
+120,,145,0.504,2.5,Asia Pacific
+121,,58,0.768,3.3,Americas
+122,,153,0.466,2.2,Asia Pacific
+123,,107,0.665,2.2,Americas
+124,,80,0.725,3.4,Americas
+125,,112,0.644,2.6,Asia Pacific
+126,,39,0.813,5.5,EU W. Europe
+127,,41,0.809,6.1,EU W. Europe
+128,,37,0.831,7.2,MENA
+129,,50,0.781,3.6,EU W. Europe
+130,Russia,66,0.755,2.4,East EU Cemt Asia
+131,Rwanda,166,0.429,5,SSA
+132,,82,0.723,7,Americas
+133,,85,0.717,5.8,Americas
+134,,99,0.688,3.9,Asia Pacific
+135,,56,0.77,4.4,MENA
+136,,155,0.459,2.9,SSA
+137,,59,0.766,3.3,East EU Cemt Asia
+138,,52,0.773,4.8,SSA
+139,,180,0.336,2.5,SSA
+140,Singapore,26,0.866,9.2,Asia Pacific
+141,,35,0.834,4,EU W. Europe
+142,,21,0.884,5.9,EU W. Europe
+143,,142,0.51,2.7,Asia Pacific
+144,South Africa,123,0.619,4.1,SSA
+145,Spain,23,0.878,6.2,EU W. Europe
+146,,97,0.691,3.3,Asia Pacific
+147,Sudan,169,0.408,1.6,SSA
+148,,104,0.68,3,Americas
+149,,140,0.522,3.1,SSA
+150,,10,0.904,9.3,EU W. Europe
+151,,11,0.903,8.8,EU W. Europe
+152,,119,0.632,2.6,MENA
+153,,127,0.607,2.3,East EU Cemt Asia
+154,,152,0.466,3,SSA
+155,,103,0.682,3.4,Asia Pacific
+156,,147,0.495,2.4,Asia Pacific
+157,,162,0.435,2.4,SSA
+158,,90,0.704,3.1,Asia Pacific
+159,,62,0.76,3.2,Americas
+160,,94,0.698,3.8,MENA
+161,,92,0.699,4.2,East EU Cemt Asia
+162,,102,0.686,1.6,East EU Cemt Asia
+163,,161,0.446,2.4,SSA
+164,,76,0.729,2.3,East EU Cemt Asia
+165,,30,0.846,6.8,MENA
+166,US,4,0.91,7.1,Americas
+167,,48,0.783,7,Americas
+168,,115,0.641,1.6,East EU Cemt Asia
+169,,125,0.617,3.5,Asia Pacific
+170,Venezuela,73,0.735,1.9,Americas
+171,,154,0.462,2.1,MENA
+172,,164,0.43,3.2,SSA
+173,,173,0.376,2.2,SSA
